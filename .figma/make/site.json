@@ -1,0 +1,10 @@
+{
+  "description": "Discover, rate, organize, and share your reading experiences with a clean, user-friendly platform featuring book catalogs, reading diaries, reviews, and literary news.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
